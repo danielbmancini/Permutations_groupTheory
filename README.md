@@ -4,6 +4,6 @@ Documentação principal: [Permutation.java](https://danielbmancini.github.io/Pe
 
 | Classe                       | Descrição                                      |
 |------------------------------|------------------------------------------------|
-| Permutation.java             | Objeto de permutação.                         |
-| MultiplyKPermutations.java   | Define e multiplica várias permutações.      |
-| PermutationExponentiation.java | Exponenciação, utilizado para encontrar a ordem do objeto. |
+| [Permutation](src/Permutation.java)             | Objeto de permutação.                         |
+| [MultiplyKPermutations](src/MultiplyKPermutations.java)   | Define e multiplica várias permutações.      |
+| [PermutationExponentiation](src/PermutationExponentiation.java) | Exponenciação, utilizado para encontrar a ordem do objeto. |

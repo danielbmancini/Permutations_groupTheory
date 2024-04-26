@@ -1,7 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="98cf732c-e052-4ec0-8f31-1db14fdfa215" name="Changes" comment="" />
+    <list default="true" id="98cf732c-e052-4ec0-8f31-1db14fdfa215" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MultiplyKPermutations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MultiplyTwoPermutations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Permutation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PermutationExponentiation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PermutationTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Permutations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ProcessPermutationEntriesInput.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -23,9 +38,19 @@
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true"
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/home/daniel/Dropbox/Documentos/self study notes/Permutation.java javadoc",
+    "project.structure.last.edited": "Libraries",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
